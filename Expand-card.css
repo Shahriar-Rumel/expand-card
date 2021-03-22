@@ -9,12 +9,13 @@ body{
 }
 .cover{
     height:120vh;
+    width:100vw;
 }
 .card-box{
     margin  :0 auto;
     margin-top: 80px;
     display: flex;
-    width:95vw;
+    width:100vw;
 }
 .card{
  
